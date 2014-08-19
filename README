@@ -2,4 +2,4 @@ Package ebnf is a library for EBNF grammars salvaged from pre Go 1 exp/ebnf as
 other packages at github.com/cznic used to depend on it.
 
 Install: $ go get github.com/cznic/ebnf
-Godocs: http://gopkgdoc.appspot.com/pkg/github.com/cznic/ebnf
+Godocs: http://godoc.org/github.com/cznic/ebnf
